@@ -1,8 +1,8 @@
 # FOR STUDYING REACT NATIVE CLI
 
-오늘의 야구 앱 개발 전 리네 cli 공부용 레포
-<br/>
-<br/>
+> 오늘의 야구 앱 개발 전 리네 cli 공부용 레포
+> <br/>
+> <br/>
 
 # 개발환경 세팅
 
