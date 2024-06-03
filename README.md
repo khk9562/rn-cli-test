@@ -39,10 +39,9 @@ https://hee-dev.tistory.com/10
 <strong>설치 명령어</strong>
 <br/>
 
-<code>sudo gem install cocoapods</code>
+<code>gem install cocoapods</code>
 <br/>
 
-<p>루비 디렉토리 수정 권한이 없어서 강제로 설치..</P>
 <br/>
 <strong>설치 확인 위해 버전 확인</strong>
 <br/>
