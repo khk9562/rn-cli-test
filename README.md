@@ -6,6 +6,51 @@
 
 # 개발환경 세팅
 
+<br />
+
+## ruby 2.7.0 으로 업데이트
+
+<p>루비 업데이트 관리를 위한 rbenv 설치</p>
+<strong>설치 명령어</strong>
+<br/>
+
+<code>brew install rbenv</code>
+<br/>
+<code>rbenv init</code>
+<br/>
+rbenv init을 했을 때 안내가 나오는대로 특정 파일(Ex. ~/.zshrc)에 코드를 추가.
+
+### rbenv init 위해 코드 추가 방법
+
+https://hee-dev.tistory.com/10
+<br />
+<br />
+
+### ruby vesion update 방법
+
+https://hee-dev.tistory.com/10
+
+<br />
+<br />
+<br />
+
+## cocoapods 설치
+
+<strong>설치 명령어</strong>
+<br/>
+
+<code>sudo gem install cocoapods</code>
+<br/>
+
+<p>루비 디렉토리 수정 권한이 없어서 강제로 설치..</P>
+<br/>
+<strong>설치 확인 위해 버전 확인</strong>
+<br/>
+<code>pod --version</code>
+
+<br/>
+<br/>
+
 ## Watchman 설치
 
 - Watchman은 특정 폴더나 파일을 감시하다가 변화가 생기면, 특정 동작 실행하도록 설정하는 역할
